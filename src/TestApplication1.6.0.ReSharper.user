@@ -9,17 +9,8 @@
     </Session>
   </UnitTestSessions>
   <RecentFiles>
-    <RecentFiles>
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="77" fromTop="2" />
-    </RecentFiles>
-    <RecentEdits>
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="307" fromTop="12" />
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="0" fromTop="0" />
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="307" fromTop="10" />
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="133" fromTop="6" />
-      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="259" fromTop="12" />
-    </RecentEdits>
+    <RecentFiles />
+    <RecentEdits />
   </RecentFiles>
   <CompletionStatisticsManager>
     <ItemStatistics item="CSharpCodeCompletionContext">

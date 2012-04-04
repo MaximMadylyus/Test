@@ -9,3 +9,14 @@ D:\Projects\TestApplication1\TestApplication1\obj\x86\Release\GenerateResource.r
 D:\Projects\TestApplication1\TestApplication1\obj\x86\Release\GenerateResource.write.1.tlog
 D:\Projects\TestApplication1\TestApplication1\obj\x86\Release\TestApplication1.exe
 D:\Projects\TestApplication1\TestApplication1\obj\x86\Release\TestApplication1.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1\bin\Release\TestApplication1.exe.config
+C:\Users\mmadyl\Test\Test\src\TestApplication1\bin\Release\TestApplication1.exe
+C:\Users\mmadyl\Test\Test\src\TestApplication1\bin\Release\TestApplication1.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\TestApplication1.Fold.UserControl1.resources
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\TestApplication1.Form1.resources
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\TestApplication1.Properties.Resources.resources
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\TestApplication1.exe
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Release\TestApplication1.pdb

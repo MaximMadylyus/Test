@@ -14,3 +14,11 @@ D:\Projects\src\TestApplication1Tests\bin\Debug\TestApplication1.pdb
 D:\Projects\src\TestApplication1Tests\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\src\TestApplication1Tests\obj\Debug\TestApplication1Tests.dll
 D:\Projects\src\TestApplication1Tests\obj\Debug\TestApplication1Tests.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Debug\TestApplication1Tests.dll
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Debug\TestApplication1Tests.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Debug\TestApplication1.exe
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Debug\TestApplication1.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\obj\Debug\TestApplication1Tests.dll
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\obj\Debug\TestApplication1Tests.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Debug\nunit.framework.dll

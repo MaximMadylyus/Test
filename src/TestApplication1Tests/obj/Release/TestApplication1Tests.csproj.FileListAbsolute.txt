@@ -6,3 +6,11 @@ D:\Projects\TestApplication1\TestApplication1Tests\bin\Release\TestApplication1.
 D:\Projects\TestApplication1\TestApplication1Tests\obj\Release\ResolveAssemblyReference.cache
 D:\Projects\TestApplication1\TestApplication1Tests\obj\Release\TestApplication1Tests.dll
 D:\Projects\TestApplication1\TestApplication1Tests\obj\Release\TestApplication1Tests.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\obj\Release\TestApplication1Tests.dll
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\obj\Release\TestApplication1Tests.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Release\TestApplication1Tests.dll
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Release\TestApplication1Tests.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Release\nunit.framework.dll
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Release\TestApplication1.exe
+C:\Users\mmadyl\Test\Test\src\TestApplication1Tests\bin\Release\TestApplication1.pdb

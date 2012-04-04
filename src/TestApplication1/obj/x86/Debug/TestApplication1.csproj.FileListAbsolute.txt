@@ -20,3 +20,14 @@ D:\Projects\src\TestApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Projects\src\TestApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\Projects\src\TestApplication1\obj\x86\Debug\TestApplication1.exe
 D:\Projects\src\TestApplication1\obj\x86\Debug\TestApplication1.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1\bin\Debug\TestApplication1.exe.config
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\TestApplication1.exe
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\TestApplication1.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1\bin\Debug\TestApplication1.exe
+C:\Users\mmadyl\Test\Test\src\TestApplication1\bin\Debug\TestApplication1.pdb
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\TestApplication1.Fold.UserControl1.resources
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\TestApplication1.Form1.resources
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\TestApplication1.Properties.Resources.resources
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mmadyl\Test\Test\src\TestApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
