@@ -1,0 +1,24 @@
+<project default="default"> 
+ 
+<property name="devEnvPath" value="C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.com" /> 
+    <target name="compileDebug"> 
+        <exec program="${devEnvPath}"> 
+        <arg value="src\TestApplication1.sln" /> 
+        <arg value="/build"/> 
+        <arg value="Debug" /> 
+        </exec> 
+    </target> 
+         
+   <target name="default" depends="compileDebug" />
+   
+<target name="tests.unit.run" description="Run unit tests">
+  <exec program="tools\nunit-console.exe"
+      workingdir="D:\Projects\TestApplication1\TestApplication1Tests\bin\Debug\"
+      commandline="TestApplication1Tests.dll /xml:TestResults.xml /nologo"/>
+</target> 
+
+<exec program="tools\NUnit-2.6.0.12051\bin\nunit-console.exe">
+        <arg value="src\TestApplication1Tests\bin\Debug\TestApplication1Tests.dll" />
+    </exec>
+
+</project>

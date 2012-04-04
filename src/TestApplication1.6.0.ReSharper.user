@@ -1,0 +1,103 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="TestApplication1Tests.Class1Test" type="NUnitTestFixtureElement" Project="E7A60F02-5DDC-4999-AA15-A6504736515E" />
+        <UnitTestElement Provider="nUnit" Id="TestApplication1Tests.Class1Test.ControlTest" ParentId="TestApplication1Tests.Class1Test" type="NUnitTestElement" TypeName="TestApplication1Tests.Class1Test" MethodName="ControlTest" Project="E7A60F02-5DDC-4999-AA15-A6504736515E" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="77" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="307" fromTop="12" />
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="0" fromTop="0" />
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="307" fromTop="10" />
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="133" fromTop="6" />
+      <File id="E7A60F02-5DDC-4999-AA15-A6504736515E/f:Class1Test.cs" caret="259" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="95" />
+      <Item value="string" priority="90" />
+      <Item value="public" priority="95" />
+      <Item value="return" priority="63" />
+      <Item value="messageText" priority="63" />
+      <Item value="set" priority="32" />
+      <Item value="value" priority="31" />
+      <Item value="this" priority="127" />
+      <Item value="using" priority="87" />
+      <Item value="NewsStyleUriParser`0" priority="53" />
+      <Item value="UserControl1`0" priority="53" />
+      <Item value="get" priority="32" />
+      <Item value="someControl" priority="63" />
+      <Item value="Class1`0" priority="81" />
+      <Item value="Form1`0" priority="58" />
+      <Item value="new" priority="63" />
+      <Item value="NUnit" priority="63" />
+      <Item value="Framework" priority="53" />
+      <Item value="Test" priority="22" />
+      <Item value="void" priority="31" />
+      <Item value="Class1Test`0" priority="31" />
+      <Item value="class1" priority="96" />
+      <Item value="TestApplication1" priority="115" />
+      <Item value="Fold" priority="49" />
+      <Item value="Class1" priority="51" />
+      <Item value="Assert`0" priority="58" />
+      <Item value="UserControl1" priority="25" />
+      <Item value="TestFixture" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestApplication1.Fold.UserControl1">
+      <Item value="helloRichTextBox" priority="49" />
+      <Item value="messageText" priority="22" />
+      <Item value="MessageText" priority="27" />
+      <Item value="GetType`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="Text" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestApplication1.Form1">
+      <Item value="ControlCollection`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestApplication1.Form1">
+      <Item value="Controls" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestApplication1.Class1">
+      <Item value="SomeControl" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="26" />
+      <Item value="AreNotEqual`0" priority="22" />
+      <Item value="IsNotEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

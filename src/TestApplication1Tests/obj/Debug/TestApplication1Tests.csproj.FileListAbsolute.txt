@@ -1,0 +1,16 @@
+D:\Projects\TestApplication1\TestApplication1Tests\bin\Debug\TestApplication1Tests.dll
+D:\Projects\TestApplication1\TestApplication1Tests\bin\Debug\TestApplication1Tests.pdb
+D:\Projects\TestApplication1\TestApplication1Tests\bin\Debug\nunit.framework.dll
+D:\Projects\TestApplication1\TestApplication1Tests\bin\Debug\TestApplication1.exe
+D:\Projects\TestApplication1\TestApplication1Tests\bin\Debug\TestApplication1.pdb
+D:\Projects\TestApplication1\TestApplication1Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\TestApplication1\TestApplication1Tests\obj\Debug\TestApplication1Tests.dll
+D:\Projects\TestApplication1\TestApplication1Tests\obj\Debug\TestApplication1Tests.pdb
+D:\Projects\src\TestApplication1Tests\bin\Debug\TestApplication1Tests.dll
+D:\Projects\src\TestApplication1Tests\bin\Debug\TestApplication1Tests.pdb
+D:\Projects\src\TestApplication1Tests\bin\Debug\nunit.framework.dll
+D:\Projects\src\TestApplication1Tests\bin\Debug\TestApplication1.exe
+D:\Projects\src\TestApplication1Tests\bin\Debug\TestApplication1.pdb
+D:\Projects\src\TestApplication1Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\src\TestApplication1Tests\obj\Debug\TestApplication1Tests.dll
+D:\Projects\src\TestApplication1Tests\obj\Debug\TestApplication1Tests.pdb
