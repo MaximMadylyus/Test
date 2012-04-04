@@ -22,19 +22,16 @@ namespace TestApplication1
 
         }
 
-        public static string AnotherMethod(object y)
+        public static string DoThisWithMe(object a)
         {
-            string some = string.Empty;
-            if (null != y )
+            string x = string.Empty;
+            if (a != null)
             {
-                some = y.ToString();
+                x = a.ToString();
             }
 
-            int x = 1;
-            x++;
-
-            some = some.Replace("x", "b");
-            return some;
+            x = x.Replace("x", "b");
+            return x;
         }
     }
 }
