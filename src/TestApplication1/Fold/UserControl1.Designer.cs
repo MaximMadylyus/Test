@@ -41,7 +41,7 @@
             this.mainBtn.TabIndex = 0;
             this.mainBtn.Text = "Show";
             this.mainBtn.UseVisualStyleBackColor = true;
-            this.mainBtn.Click += new System.EventHandler(this.mainBtn_Click);
+            this.mainBtn.Click += new System.EventHandler(this.MainBtnClick);
             // 
             // helloRichTextBox
             // 
@@ -59,7 +59,7 @@
             this.clearBtn.TabIndex = 2;
             this.clearBtn.Text = "Clear";
             this.clearBtn.UseVisualStyleBackColor = true;
-            this.clearBtn.Click += new System.EventHandler(this.clearBtn_Click);
+            this.clearBtn.Click += new System.EventHandler(this.ClearBtnClick);
             // 
             // UserControl1
             // 

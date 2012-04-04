@@ -1,22 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace TestApplication1.Fold
 {
     public partial class UserControl1 : UserControl
     {
-        private string messageText;
+        private string _messageText;
 
         public string MessageText
         {
-            get { return messageText; }
-            set { messageText = value; }
+            get { return _messageText; }
+            set { _messageText = value; }
         }
 
         public UserControl1()
@@ -24,14 +18,26 @@ namespace TestApplication1.Fold
             InitializeComponent();
         }
 
-        private void mainBtn_Click(object sender, EventArgs e)
+        private void MainBtnClick(object sender, EventArgs e)
         {
-            this.helloRichTextBox.Text += this.messageText + "\n";
+            helloRichTextBox.Text += _messageText + "\n";
         }
 
-        private void clearBtn_Click(object sender, EventArgs e)
+        private void ClearBtnClick(object sender, EventArgs e)
         {
-            this.helloRichTextBox.Text = "";
+            helloRichTextBox.Text = "";
+        }
+
+        public static string DoThis(object a)
+        {
+            string x = string.Empty;
+            if(a != null)
+            {
+                x = a.ToString();
+            }
+
+            x = x.Replace("x", "b");
+            return x;
         }
     }
 }

@@ -21,5 +21,20 @@ namespace TestApplication1
         {
 
         }
+
+        public static string AnotherMethod(object y)
+        {
+            string some = string.Empty;
+            if (null != y )
+            {
+                some = y.ToString();
+            }
+
+            int x = 1;
+            x++;
+
+            some = some.Replace("x", "b");
+            return some;
+        }
     }
 }
